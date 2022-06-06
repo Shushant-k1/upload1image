@@ -9,7 +9,7 @@ def load_image():
 
 
 def main():
-    st.title('Image upload demo')
+    st.title('Divya')
     load_image()
 
 
