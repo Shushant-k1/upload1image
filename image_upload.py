@@ -9,7 +9,7 @@ def load_image():
 
 
 def main():
-    st.title('Divya')
+    st.title('Manish bahiya')
     load_image()
 
 
